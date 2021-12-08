@@ -1,19 +1,19 @@
 {
-	"feedback": [
-		{
-			"id": 1,
-			"rating": 10,
-			"text": "This is a great build "
-		},
-		{
-			"id": 2,
-			"rating": 8,
-			"text": "This is a constructive feedback"
-		},
-		{
-			"id": 3,
-			"rating": 9,
-			"text": "this is as react practice is good"
-		}
-	]
+  "feedback": [
+    {
+      "id": 1,
+      "rating": 10,
+      "text": "This is a great build "
+    },
+    {
+      "id": 2,
+      "rating": 8,
+      "text": "This is a constructive feedback"
+    },
+    {
+      "id": 3,
+      "rating": 9,
+      "text": "this is as react practice is good"
+    }
+  ]
 }
