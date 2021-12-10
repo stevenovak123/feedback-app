@@ -1,13 +1,19 @@
 # Getting Started with Create React App
-# To use the local json server and development server together run
-
-### `yarn dev`
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+
+### `yarn dev`
+
+Runs the mock json server and the app in development mode.\
+Open [http://localhost:3000](http://localhost:3000) & [http://localhost:5000](http://localhost:5000) to view it in the browser.
+
+The page will reload if you make edits.\
+You will also see CRUD operations in the db.json file.
 
 ### `yarn start`
 
