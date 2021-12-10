@@ -1,5 +1,6 @@
 # Getting Started with Create React App
-# To use the local json server and development server together you can run:
+# To use the local json server and development server together run
+
 ### `yarn dev`
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
